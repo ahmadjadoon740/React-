@@ -1,12 +1,12 @@
 import React from 'react'
 import './globals.css'
-import Alto from './hero/Alto'
+import Whatapp from './hero/Whatapp'
 const App = () => {
   return (
     <>
     
     
-   <Alto/>
+  <Whatapp/>
     
     </>
   )
